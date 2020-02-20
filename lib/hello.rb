@@ -1,8 +1,8 @@
-def hello_t
+# def hello_t
 
-end
+# end
 
-# call your method here!
+# # call your method here!
 def hello_t(array)
     i = 0
     while i < array.length
